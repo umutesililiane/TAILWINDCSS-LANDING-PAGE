@@ -24,3 +24,5 @@ module.exports = {
   plugins: [],
 }
 
+// is where you configure the paths to all of your HTML templates, JavaScript components, 
+//and any other source files that contain Tailwind class names.
